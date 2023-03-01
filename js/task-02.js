@@ -16,5 +16,15 @@ ingredients.forEach((ingredient) => {
   list.append(listItem);
 });  
 
+// const list = document.querySelector("#ingredients");
+
+// const create = createLiItem(ingredients);
+
+// list.innerHTML = create;
+
+// function createLiItem(ingredient){
+//   return ingredient.map(ing=>`<li class = "item">${ing}</li>`).join("");
+// };
+
 
 
